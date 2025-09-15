@@ -1,0 +1,23 @@
+===== VEHÍCULOS DE UN CLIENTE =====
+Cliente: Roberta Llopis
+- 2523 TBZ - Distribuciones Romeu S.L. Voz (2017)
+
+===== ÓRDENES DE UN VEHÍCULO =====
+Vehículo: 2523 TBZ - Distribuciones Romeu S.L. Voz (2017)
+- Orden #1 (ingresado)
+
+===== SERVICIOS DE UNA ORDEN =====
+Orden #1 - Vehículo: 2523 TBZ (ingresado)
+- Cambio de aceite - $25000.00
+- Revisión de frenos - $30000.00
+- Alineación y balanceo - $20000.00
+
+===== ÓRDENES EN PROGRESO =====
+No hay órdenes en progreso.
+
+===== ÓRDENES SIN FECHA DE SALIDA =====
+- Orden #1 - Vehículo: 2523 TBZ | Cliente: Roberta Llopis
+- Orden #2 - Vehículo: IB 0935 MH | Cliente: Ruperto Garrido
+- Orden #3 - Vehículo: 8303 BRN | Cliente: María Berrocal
+- Orden #4 - Vehículo: 9719 NYM | Cliente: Rufino Ruiz
+- Orden #5 - Vehículo: 0485 LFP | Cliente: Felisa Soto
